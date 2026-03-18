@@ -24,9 +24,9 @@ Backend: Node.js / Flask / Firebase
 APIs: Google Maps API, Location services
 Tools: VS Code, GitHub
 
-# TrackER – Smart ER & Ambulance Workflow (Frontend Prototype)
-
-TrackER is a browser-based prototype that simulates an end‑to‑end emergency care workflow, from ambulance dispatch and hospital selection to live IoT vitals, doctor consultation, discharge summary, and patient feedback. [attached_file:file:20][attached_file:file:21][attached_file:file:22][attached_file:file:17][attached_file:file:19][attached_file:file:16]
+🚑 TrackER – Smart Emergency Response & Ambulance Tracking System
+🔹 Overview
+TrackER is a real-time emergency response system designed to reduce delays during medical emergencies by connecting ambulances, hospitals, patients, and families on a single platform. It enables live tracking, faster coordination, and improved decision-making during critical situations.
 
 ## Features
 
@@ -65,5 +65,5 @@ TrackER is a browser-based prototype that simulates an end‑to‑end emergency 
    - IoT Vitals → third.html
    - Doctor Portal → fourth.html
    - Discharge Summary → fifth.html
-   - Feedback → sixth.html [attached_file:file:12][attached_file:file:20]
+   - Feedback → sixth.html 
    - The whole app is ready to use with interactive pages.
